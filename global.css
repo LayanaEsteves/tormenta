@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color-primary: #F1F5F1;
+    --text-color-secondary: #CBD5E1;
+
+
+    --font-primary: "Archivo", sans-serif;
+    --h1: 800 24px/135% var(--font-primary);
+    --h2: 800 16px/140% var(--font-primary);
+    --h3: 800 14px/140% var(--font-primary);
+    --text-sm: 600 14px/145% var(--font-primary);
+    --text: 400 14px/160% var(--font-primary);   
+}
+
+body {
+    background-image: url(assets/background\ header.jpg);
+    background-size: cover;
+    height: 1090px;
+ 
+}
+
+header {
+    height: 110px;
+    background: linear-gradient(to bottom, #130000, #2b0000) 
+}
