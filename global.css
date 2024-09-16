@@ -17,14 +17,3 @@
     --text: 400 14px/160% var(--font-primary);   
 }
 
-body {
-    background-image: url(assets/background\ header.jpg);
-    background-size: cover;
-    height: 1090px;
- 
-}
-
-header {
-    height: 110px;
-    background: linear-gradient(to bottom, #130000, #2b0000) 
-}

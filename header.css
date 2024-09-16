@@ -1,46 +1,18 @@
-#headerprimary {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 60px;
-   
+.headerprimary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  margin: auto;
+  gap: 50px;
+  background-color: #0C0C0C;
 }
+
 .stacks {
-    font: var(--h2);
-    color: var(--text-color-primary);
-    text-decoration: none;  
-    padding-top: 12px;
-
-}
-
-a:hover {
-    color: rgb(92, 17, 17);
-}
-
-p {
-    font-size: 55px;
-    color: rgb(255, 255, 255);
-    padding-top: 20px;
-    padding-left: 65px;
-    padding-right: 65px;
+  color: #CAC6AD;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
 }
 
 
-.cinzel-decorative-regular {
-    font-family: "Cinzel Decorative", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .cinzel-decorative-bold {
-    font-family: "Cinzel Decorative", serif;
-    font-weight: 700;
-    font-style: normal;
-  }
-  
-  .cinzel-decorative-black {
-    font-family: "Cinzel Decorative", serif;
-    font-weight: 900;
-    font-style: normal;
-  }
-  

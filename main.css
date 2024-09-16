@@ -1,8 +1,59 @@
-#primary {
-    height: 1000px;
+.main1 {
+    height: 1040px;
+    background-image: url(assets/Wallpaper\ main1.png);
+    background-size: cover;
+  }
+  
+  #mainh1 {
+    color: #0E0E0E;
+    padding-left: 1180px;
+    padding-top: 550px;
+  }
+  
+  .cinzel-decorative-regular {
+      font-family: "Cinzel Decorative", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
     
+    .cinzel-decorative-bold {
+      font-family: "Cinzel Decorative", serif;
+      font-weight: 700;
+      font-style: normal;
+    }
+    
+    .cinzel-decorative-black {
+      font-family: "Cinzel Decorative", serif;
+      font-weight: 900;
+      font-style: normal;
+    }
+
+.main2 {
+    background-image: url(assets/Wallpaper\ main2.png);
+    background-size: cover;
+    height: 1040px;
+    padding: 80px;
 }
 
-img {
-    height: 90px;
+#main2div {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 120px;
+    margin-left: 1040px;
+    height: 600px;
+    width: 500px;
+}
+
+#main2h1 {
+  color: #CAC6AD;
+  font-size: 50px;
+  margin-bottom: 30px;
+  margin
+}
+
+#main2p {
+  color: #ffffff;
+  font-size: 20px;
 }
