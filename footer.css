@@ -1,0 +1,12 @@
+.footerhome {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  margin: auto;
+  background-color: #0C0C0C;
+}
+
+#footerphome {
+    color: #CAC6AD ;
+}
