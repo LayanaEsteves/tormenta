@@ -1,41 +1,23 @@
-.main1 {
+.main1home {
     height: 1040px;
     background-image: url(assets/Wallpaper\ main1.png);
     background-size: cover;
   }
   
-  #mainh1 {
+  #mainh1home {
     color: #0E0E0E;
     padding-left: 1180px;
     padding-top: 550px;
   }
-  
-  .cinzel-decorative-regular {
-      font-family: "Cinzel Decorative", serif;
-      font-weight: 400;
-      font-style: normal;
-    }
-    
-    .cinzel-decorative-bold {
-      font-family: "Cinzel Decorative", serif;
-      font-weight: 700;
-      font-style: normal;
-    }
-    
-    .cinzel-decorative-black {
-      font-family: "Cinzel Decorative", serif;
-      font-weight: 900;
-      font-style: normal;
-    }
 
-.main2 {
+.main2home {
     background-image: url(assets/Wallpaper\ main2.png);
     background-size: cover;
     height: 1040px;
     padding: 80px;
 }
 
-#main2div {
+#main2divhome {
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -46,14 +28,15 @@
     width: 500px;
 }
 
-#main2h1 {
+#main2h1home {
   color: #CAC6AD;
   font-size: 50px;
   margin-bottom: 30px;
-  margin
+  
 }
+  
 
-#main2p {
+#main2phome {
   color: #ffffff;
   font-size: 20px;
 }
