@@ -43,8 +43,8 @@
 
 
 #main1rpve {
-    height: 895px;
-    background-image: url(assets/rpve/BG.jpg);
+    height: 1040px;
+    background-image: url(assets/rpve/BG.png);
     background-size: cover;
 }
 
@@ -94,3 +94,47 @@
 #mainrpve3p {
   margin-top: 28px;
 }
+
+#main2rpve {
+  background-image: url(assets/rpve/BG2.png);
+  height: 1040px;
+}
+
+
+#main2rpve h1 {
+  padding-top: 100px;
+  color: #CAC6AD;
+}
+
+.item2 {
+  height: 300px;
+  width: 1200px;
+  text-align: center;
+  padding-right: 50px;
+  padding-left: 50px;
+  border-radius: 12px;
+  margin: auto;
+  color: white;
+}
+
+.item2 ul {
+  text-align: left;
+  margin-top: 15px;
+  font-size: 23px;
+}
+
+.regras {
+  overflow: hidden;
+  overflow-y: scroll;
+  height: 800px;
+}
+
+.regras::-webkit-scrollbar {
+  width: 10px;
+  background-color: #CAC6AD;
+  border-radius: 10px;
+}
+
+
+
+
