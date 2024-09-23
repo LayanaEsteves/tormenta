@@ -38,3 +38,20 @@ header {
   padding-right: 30px;
   text-decoration: none;
 }
+
+.headerpersonalizacao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  margin: auto;
+  gap: 50px;
+  background-color: #0C0C0C;
+}
+
+.stackspersonalizacao {
+  color: #CAC6AD;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+}

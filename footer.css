@@ -1,4 +1,4 @@
-.footerhome {
+.footer {
     display: flex;
   justify-content: center;
   align-items: center;
@@ -7,20 +7,6 @@
   background-color: #0C0C0C;
 }
 
-#footerphome {
+#footerp {
     color: #CAC6AD ;
-}
-
-
-.footerrpve {
-  display: flex;
-justify-content: center;
-align-items: center;
-height: 35px;
-margin: auto;
-background-color: #0C0C0C;
-}
-
-#footerrpve {
-  color: #CAC6AD ;
 }

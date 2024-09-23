@@ -97,6 +97,7 @@
 
 #main2rpve {
   background-image: url(assets/rpve/BG2.png);
+  background-size: cover;
   height: 1040px;
 }
 
@@ -137,4 +138,50 @@
 
 
 
+
+
+.main1personalizacao {
+  height: 1040px;
+  background-image: url(assets/personalizacao/BG1person.png);
+  background-size: cover;
+  padding-top: 50px;
+}
+
+.div1perso {
+  margin-bottom: 50px;
+  text-align: center;
+  color: #ffffff;
+}
+
+
+.div2perso {
+  display: flex;
+  margin: auto;
+  height: 350px;
+  width: 1000px;
+  color: white;
+  background-color: #0E0E0E;
+
+  & h1 {
+    padding-left: 30px;
+    margin-bottom: 45px;
+    margin-top: 20px;
+
+  }
+
+  & p {
+    padding-left: 30px;
+    font-size: 20px;
+    margin-bottom: 12px;
+
+  }
+
+  
+  
+}
+
+#classes {
+  padding-block: 15px;
+  padding-left: 15px;
+}
 
